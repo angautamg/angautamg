@@ -1,5 +1,5 @@
-#  Hi there 👋, I'm Gautam Singh  
-
+#                  Hi there 👋, I'm Gautam Singh  
+🚀 Building Scalable Web Apps | Node.js | React | MongoDB | AI-assisted Development”.
 🚀 **Senior Full Stack Developer | Node.js | React.js | MongoDB | TypeScript | Angular | JavaScript | Express.js
 
 💡 Passionate about building scalable web apps, optimizing performance, and using AI-assisted tools like Copilot & ChatGPT to accelerate development.  
