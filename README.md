@@ -1,6 +1,6 @@
 #                  Hi there 👋, I'm Gautam Singh  
 🚀 Building Scalable Web Apps | Node.js | React | MongoDB | AI-assisted Development”.
-🚀 **Senior Full Stack Developer | Node.js | React.js | MongoDB | TypeScript | Angular | JavaScript | Express.js
+🚀 **Senior Full Stack Developer | Nextjs | Node.js | React.js | MongoDB | TypeScript | Angular | JavaScript | Express.js
 
 💡 Passionate about building scalable web apps, optimizing performance, and using AI-assisted tools like Copilot & ChatGPT to accelerate development.  
 
@@ -17,5 +17,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angautamg&layout=compact&theme=dark)  
 
 🌍 **Connect with me**  
-[LinkedIn](https://linkedin.com/in/YOUR_LINK) | [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/gautam-singh-js) | [Portfolio](https://yourportfolio.com)
 
